@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Best Daf Yomi</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #007AFF;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        h2 {
+            color: #2c3e50;
+            font-size: 1.4em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #007AFF;
+            padding-bottom: 5px;
+        }
+        h3 {
+            color: #34495e;
+            font-size: 1.2em;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .last-updated {
+            text-align: center;
+            font-style: italic;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        .contact-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #007AFF;
+            margin: 20px 0;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .highlight {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 6px;
+            margin: 15px 0;
+            border-left: 3px solid #2196f3;
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <div class="last-updated">Last updated: January 3, 2025</div>
+
+        <div class="highlight">
+            <strong>In Short:</strong> We collect minimal personal information necessary to provide our Daf Yomi learning service. Your data is secure, never sold, and you have full control over your account.
+        </div>
+
+        <h2>1. Information We Collect</h2>
+        
+        <h3>Personal Information You Provide</h3>
+        <ul>
+            <li><strong>Account Information:</strong> Email address and password when you create an account</li>
+            <li><strong>Profile Data:</strong> Optional display name or preferences you choose to set</li>
+            <li><strong>Learning Data:</strong> Bookmarks and personal notes you save within the app</li>
+        </ul>
+
+        <h3>Automatically Collected Information</h3>
+        <ul>
+            <li><strong>Usage Analytics:</strong> Which videos you watch and app features you use (anonymized)</li>
+            <li><strong>Device Information:</strong> Device type, operating system version, and app version</li>
+            <li><strong>Technical Data:</strong> IP address, crash reports, and performance metrics</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+        
+        <p>We use your information solely to:</p>
+        <ul>
+            <li>Provide and maintain the Daf Yomi learning service</li>
+            <li>Sync your bookmarks and preferences across devices</li>
+            <li>Send password reset emails when requested</li>
+            <li>Improve app performance and fix technical issues</li>
+            <li>Understand how users interact with our content (anonymized data only)</li>
+        </ul>
+
+        <div class="highlight">
+            <strong>We never:</strong> Sell your data, share it with advertisers, or use it for marketing purposes outside of our app.
+        </div>
+
+        <h2>3. Information Sharing and Disclosure</h2>
+        
+        <p>We do not sell, trade, or rent your personal information. We may share limited data only in these circumstances:</p>
+        
+        <h3>Service Providers</h3>
+        <ul>
+            <li><strong>Supabase:</strong> Database and authentication services (encrypted data storage)</li>
+            <li><strong>YouTube:</strong> Video hosting platform (for educational content delivery)</li>
+            <li><strong>Apple App Store:</strong> Crash reports and basic analytics (anonymized)</li>
+        </ul>
+
+        <h3>Legal Requirements</h3>
+        <p>We may disclose information if required by law, court order, or to protect our users' safety.</p>
+
+        <h2>4. Data Security</h2>
+        
+        <p>We implement industry-standard security measures:</p>
+        <ul>
+            <li>All data transmitted using SSL/TLS encryption</li>
+            <li>Passwords are securely hashed and never stored in plain text</li>
+            <li>Regular security audits and updates</li>
+            <li>Access controls limiting who can view user data</li>
+            <li>Data backups stored in secure, encrypted environments</li>
+        </ul>
+
+        <h2>5. Your Privacy Rights</h2>
+        
+        <p>You have the right to:</p>
+        <ul>
+            <li><strong>Access:</strong> Request a copy of your personal data</li>
+            <li><strong>Correct:</strong> Update or correct inaccurate information</li>
+            <li><strong>Delete:</strong> Request deletion of your account and associated data</li>
+            <li><strong>Export:</strong> Download your bookmarks and personal data</li>
+            <li><strong>Opt-out:</strong> Disable analytics data collection in app settings</li>
+        </ul>
+
+        <h2>6. Children's Privacy</h2>
+        
+        <p>Our app is designed for users of all ages interested in Talmud study. We do not knowingly collect personal information from children under 13 without parental consent. If you believe we have inadvertently collected such information, please contact us immediately.</p>
+
+        <h2>7. International Data Transfers</h2>
+        
+        <p>Your data may be processed and stored in servers located outside your country of residence. We ensure appropriate safeguards are in place to protect your information in accordance with this privacy policy.</p>
+
+        <h2>8. Data Retention</h2>
+        
+        <p>We retain your information for as long as your account is active or as needed to provide services. When you delete your account:</p>
+        <ul>
+            <li>Personal data is deleted within 30 days</li>
+            <li>Anonymized usage data may be retained for analytics purposes</li>
+            <li>Legal or regulatory requirements may require longer retention periods</li>
+        </ul>
+
+        <h2>9. Third-Party Services</h2>
+        
+        <p>Our app integrates with:</p>
+        <ul>
+            <li><strong>YouTube:</strong> For video content delivery (subject to YouTube's Privacy Policy)</li>
+            <li><strong>Supabase:</strong> For secure data storage and user authentication</li>
+        </ul>
+
+        <p>These services have their own privacy policies, and we encourage you to review them.</p>
+
+        <h2>10. Changes to This Privacy Policy</h2>
+        
+        <p>We may update this privacy policy periodically. When we do:</p>
+        <ul>
+            <li>We'll update the "Last updated" date at the top</li>
+            <li>Significant changes will be announced within the app</li>
+            <li>Continued use of the app constitutes acceptance of the updated policy</li>
+        </ul>
+
+        <h2>11. Contact Information</h2>
+        
+        <div class="contact-info">
+            <p>If you have questions about this privacy policy or your personal data, please contact us:</p>
+            <ul>
+                <li><strong>Email:</strong> info@bestdafyomi.com</li>
+                <li><strong>Response Time:</strong> We aim to respond within 48 hours</li>
+            </ul>
+        </div>
+
+        <h2>12. Additional Information for California Residents</h2>
+        
+        <p>Under the California Consumer Privacy Act (CCPA), California residents have additional rights:</p>
+        <ul>
+            <li>Right to know what categories of personal information we collect</li>
+            <li>Right to request deletion of personal information</li>
+            <li>Right to opt-out of the sale of personal information (we don't sell data)</li>
+            <li>Right to non-discrimination for exercising privacy rights</li>
+        </ul>
+
+        <div class="highlight">
+            <strong>Questions?</strong> We're committed to transparency and protecting your privacy. Don't hesitate to reach out with any concerns or questions about how we handle your data.
+        </div>
+    </div>
+</body>
+</html>
